@@ -92,7 +92,7 @@ Return to Azure AD B2C in the Azure portal. Select User flows and use the follow
 
 Record the sign-up and sign-in user flow name created for the app (for example, B2C_1_signupsignin1).
 
-## Create the Blazor app or Chanhes in the existing project:
+## Create the Blazor app or Changes in the existing project:
 ## For creating new Blazor
 
 Replace the placeholders in the following command with the information recorded earlier and execute the command in a command shell:
